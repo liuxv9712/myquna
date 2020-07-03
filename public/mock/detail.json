@@ -1,0 +1,34 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "牛首山文化旅游区4A景区",
+    "bannerImg": "https://imgs.qunarzz.com/sight/p0/1601/93/93fc9519bd1959b890.img.jpg_710x360_ccaf3f3b.jpg",
+    "gallaryImgs": [
+      "https://imgs.qunarzz.com/sight/p0/1601/93/93fc9519bd1959b890.img.jpg_710x360_ccaf3f3b.jpg",
+      "https://imgs.qunarzz.com/sight/p0/1601/88/887e26529b26a8c390.img.jpg_710x360_4d312932.jpg"
+    ],
+    "categoryList": [{
+        "title": "成人票",
+        "children": [{
+            "title": "成人三馆联票",
+            "children": [{
+              "title": "成人三馆联票 - 某一连锁店销售"
+            }]
+          },
+          {
+            "title": "成人五馆联票"
+          }
+        ]
+      },
+      {
+        "title": "学生票"
+      },
+      {
+        "title": "儿童票"
+      },
+      {
+        "title": "特惠票"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "ret": true,
+  "data": {
+    "city": "北京",
+    "swiperList": [{
+        "id": "001",
+        "imgUrl": "https://dimg04.c-ctrip.com/images/zg0j1d000001e8gif1020.jpg"
+      },
+      {
+        "id": "002",
+        "imgUrl": "https://dimg04.c-ctrip.com/images/zg0c1e000001eya7aCF69.jpg"
+      }
+    ],
+    "iconsList": [{
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "imgDesc": "景点门票"
+      },
+      {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+        "imgDesc": "一日游"
+      },
+      {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "imgDesc": "滑雪季"
+      },
+      {
+        "id": "004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/bd/9f7b9b2b60c1502.png",
+        "imgDesc": "泡温泉"
+      },
+      {
+        "id": "005",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/fc/b10a6b2e4f0fe102.png",
+        "imgDesc": "动物园"
+      },
+      {
+        "id": "006",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "imgDesc": "植物园"
+      },
+      {
+        "id": "007",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "imgDesc": "游乐园"
+      },
+      {
+        "id": "008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "imgDesc": "民宿"
+      }
+    ],
+    "recommendList": [{
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1810/cc/cc47164357acbeb5a3.water.jpg_200x200_151f0405.jpg",
+        "title": "杭州云曼温泉",
+        "desc": "2127条评论"
+      },
+      {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1810/cc/cc47164357acbeb5a3.water.jpg_200x200_151f0405.jpg",
+        "title": "杭州西湖",
+        "desc": "1127条评论"
+      },
+      {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1810/cc/cc47164357acbeb5a3.water.jpg_200x200_151f0405.jpg",
+        "title": "杭州千岛湖",
+        "desc": "1927条评论"
+      }
+    ],
+    "weekendList": [{
+        "id": "001",
+        "imgUrl": "http://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/7d9b233c71cad13ded0013f9c9cec635.jpg",
+        "desc": "驾一叶扁舟，寻瓯江往事"
+      },
+      {
+        "id": "002",
+        "imgUrl": "http://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/fd16ccffb2e2376ff370bda3bebebd71.jpg",
+        "desc": "不负嵊夏好时光，泗乎太安逸"
+      },
+      {
+        "id": "003",
+        "imgUrl": "http://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/5a11974656794b4715156501be10c1b7.jpg",
+        "desc": "厦门，带娃出行与幸福同行"
+      },
+      {
+        "id": "004",
+        "imgUrl": "http://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/c2ae82fcc9fa11fa253e5919c49bcfbf.jpg",
+        "desc": "探访日本，一部家庭旅行画册"
+      }
+    ]
+  }
+}
